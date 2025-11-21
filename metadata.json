@@ -1,0 +1,7 @@
+{
+  "name": "AmoraPets do Guri",
+  "description": "A modern, dark-themed Pet Shop application featuring service scheduling, pricing lists, photo gallery, and location mapping.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
